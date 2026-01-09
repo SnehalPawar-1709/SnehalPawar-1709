@@ -1,5 +1,97 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Memora – AI-Powered Smart Meeting Assistant, featuring real-time transcription, multilingual translation, summarization, and automatic action item generation to improve meeting productivity.<br><br>👯 I’m looking to collaborate on<br><br>Real-world full-stack or AI-based projects<br><br>Open-source contributions related to web or backend development<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms in Java (regular LeetCode practice)<br><br>Backend scalability and modern frontend development with React.js<br><br>💬 Ask me about<br><br>Java DSA & problem-solving approaches<br><br>MERN stack development<br><br>Building and deploying real-world applications<br><br>⚡ Fun fact<br><br>I enjoy learning by building and continuously improving my projects 🚀<br><br>🎯 Seeking Internship Opportunity<br><br>Actively looking for a Software Development / Web Development Intern role where I can contribute, learn from industry mentors, and grow as a developer.<br>📩 Feel free to connect or reach out for internship opportunities!
+# Hi 👋 I'm Snehal Pawar  
+
+🎓 Computer Science Engineering Student | 💻 Full Stack Developer | ☕ Java Enthusiast  
+
+I am a motivated Computer Science Engineering student with hands-on experience in **Java, JavaScript, MERN Stack, and Machine Learning**.  
+I enjoy building **real-world, scalable web applications** and continuously improving my **problem-solving and development skills**.
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+- Java
+- JavaScript
+- Python
+
+### 🎨 Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- React.js
+
+### ⚙ Backend
+- Node.js
+- Express.js
+- RESTful APIs
+
+### 🗄 Databases
+- MongoDB
+- SQL
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Cloudinary
+- Socket.IO
+
+### 📚 Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- DBMS
+- Operating Systems
+- MVC Architecture
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 StayEase – Property Listing Platform
+A full-stack property listing web application with authentication and role-based access.
+
+**Key Features:**
+- User authentication & authorization
+- Add, update, and manage property listings
+- Image upload & storage using Cloudinary
+- Secure and scalable backend
+
+**Tech Stack:**  
+Node.js, Express.js, MongoDB, Mongoose, EJS, Passport.js, Cloudinary  
+
+🔗 Live Demo | 📂 Repository
+
+---
+
+### 📊 Employee Attrition Prediction System
+A machine learning-based system to predict employee attrition using HR data.
+
+**Key Features:**
+- Data preprocessing and exploratory data analysis
+- Model training using Logistic Regression & Random Forest
+- Interactive UI using Streamlit
+
+**Tech Stack:**  
+Python, Pandas, Scikit-learn, Streamlit  
+
+📂 Repository
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥇 Winner – Quick Heal *Cyber Shiksha for Cyber Suraksha* Contest
+- 📜 Certified in AI/ML for Geodata Analysis – ISRO
+- ☕ Java Basic Problem Solving – HackerRank
+- 🌐 Certified in Web Development – Easy Shiksha
+- 🛡 Volunteer – Quick Heal Foundation (Cybersecurity Awareness)
+
+---
+
+## 📌 Currently Focusing On
+- Strengthening **Java & Data Structures**
+- Building **production-level MERN projects**
+- Improving **English communication & interview skills**
+
+---
+
 
 
 ## 🌐 Socials:
@@ -16,3 +108,5 @@
 [![](https://visitcount.itsvg.in/api?id=SnehalPawar-1709&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+⭐ *If you like my work, feel free to star my repositories!*
