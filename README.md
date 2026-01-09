@@ -91,6 +91,7 @@ Python, Pandas, Scikit-learn, Streamlit
 - Improving **English communication & interview skills**
 
 ---
+⭐ *If you like my work, feel free to star my repositories!*
 
 
 
