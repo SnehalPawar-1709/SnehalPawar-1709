@@ -106,4 +106,3 @@ Python, Pandas, Scikit-learn, Streamlit
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-⭐ *If you like my work, feel free to star my repositories!*
